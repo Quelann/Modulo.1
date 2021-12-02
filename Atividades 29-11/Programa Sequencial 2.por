@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao inicio()	{
+	funcao inicio()	{
 
 	inteiro dias
 	inteiro meses 
@@ -16,7 +16,7 @@ programa
 	dias = (totalDias % 365) % 30
 	
 	escreva("\nSua idade em anos, é :", anos)
-	escreva("\nSua idade em meses é :",meses)
+	escreva("\nSua idade em meses é :", meses)
 	escreva("\nSua idade em dias é :", dias)
 	}
 }
@@ -25,7 +25,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 338; 
+ * @POSICAO-CURSOR = 159; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
